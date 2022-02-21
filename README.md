@@ -6,4 +6,5 @@ i am studing java in this rebo i will add  keep track of my observations and que
 ## Code 401 - Advanced Software Development
 | topics        | links                            |sreenshoot_link                  |
 | ------------- | ---------------------------------|---------------------------------|
-| learn SQL     | [link] (learnSQl/learnSQL.tex)   |[link](learnSQl/sreenshoots.png) |
+| learn SQL     | [link](learnSQl/learnSQL.md)     |[link](learnSQl/sreenshoots.png) |
+|---------------|----------------------------------|---------------------------------|
