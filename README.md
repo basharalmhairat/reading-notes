@@ -8,3 +8,4 @@ i am studing java in this rebo i will add  keep track of my observations and que
 | ------------- | ---------------------------------|---------------------------------|
 | learn SQL     | [link](learnSQl/learnSQL.md)     |[link](learnSQl/sreenshoots.png) |
 |---------------|----------------------------------|---------------------------------|
+
