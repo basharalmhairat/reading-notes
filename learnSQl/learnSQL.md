@@ -5,40 +5,40 @@
 
 
   
-  ![](learnSQl/sreenshoots.png/2022-02-21(4).png)
+  ![4](learnSQl/sreenshoots.png/2022-02-21(4).png)
+
+ 
+
+  ![5](learnSQl/sreenshoots.png/2022-02-21(5).png) 
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(5).png)
+
+  ![6](learnSQl/sreenshoots.png/2022-02-21(6).png)
 
 
 
-
-  ![](learnSQl/sreenshoots.png/2022-02-21(6).png)
-
-
-
-  ![](learnSQl/sreenshoots.png/2022-02-21(7).png)
+  ![7](learnSQl/sreenshoots.png/2022-02-21(7).png)
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(8).png)
+  ![8](learnSQl/sreenshoots.png/2022-02-21(8).png)
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(9).png)
+  ![9](learnSQl/sreenshoots.png/2022-02-21(9).png)
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(10).png)
+  ![10](learnSQl/sreenshoots.png/2022-02-21(10).png)
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(11).png)
+  ![11](learnSQl/sreenshoots.png/2022-02-21(11).png)
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(12).png)
+  ![12](learnSQl/sreenshoots.png/2022-02-21(12).png)
 
 
 
@@ -54,5 +54,5 @@
 
 
 
-  ![](learnSQl/sreenshoots.png/2022-02-21(12).png)
+  ![](learnSQl/sreenshoots.png/2022-02-21(12).png) 
 
