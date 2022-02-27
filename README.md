@@ -10,3 +10,4 @@ i am studing java in this rebo i will add  keep track of my observations and que
 |Practice in the Terminal| [link](Terminal.md)|
 |java basics|[link](java-basics.md)|
 |MindSet|[link](Mindset.md)|
+|arrays-loops-imports|[link](arrays-loops-imports.md)|

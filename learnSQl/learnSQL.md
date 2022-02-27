@@ -5,7 +5,7 @@
 
 
   
-  ![4](learnSQl/sreenshoots.png/2022-02-21(4).png)
+  ![4](learnSQl/sreenshoots.png/sreen1.png)
 
  
 
