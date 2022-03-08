@@ -13,3 +13,6 @@ i am studing java in this rebo i will add  keep track of my observations and que
 |arrays-loops-imports|[link](arrays-loops-imports.md)|
 |File I/O|[link](file-io.md)|
 |OOP|[link](OOP.md)|
+|Linked list|[link](Linked-lest.md)|
+|Inheritance and Interfaces|[link](Inheritance-Interfaces.md)|
+
