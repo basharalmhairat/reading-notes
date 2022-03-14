@@ -16,3 +16,4 @@ i am studing java in this rebo i will add  keep track of my observations and que
 |Linked list|[link](Linked-lest.md)|
 |Inheritance and Interfaces|[link](Inheritance-Interfaces.md)|
 |OODesign|[link](OODesign.md)|
+|WRRC-Java|[link](https://github.com/basharalmhairat/reading-notes/blob/main/WRRC-Java.md)|
