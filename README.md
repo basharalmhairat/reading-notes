@@ -19,3 +19,4 @@ i am studing java in this rebo i will add  keep track of my observations and que
 |WRRC-Java|[link](WRRC-Java.md)|
 |Spring|[link](Spring.md)|
 |Spring2|[link](spring2.md)|
+|SpringRESTfulRoutingStaticFiles|[link](SpringRESTfulRoutingStaticFiles.md)|
