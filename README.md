@@ -20,3 +20,4 @@ i am studing java in this rebo i will add  keep track of my observations and que
 |Spring|[link](Spring.md)|
 |Spring2|[link](spring2.md)|
 |SpringRESTfulRoutingStaticFiles|[link](SpringRESTfulRoutingStaticFiles.md)|
+|RelateResources-IntegrationTesting|[link](RelateResources-IntegrationTesting.md)|
