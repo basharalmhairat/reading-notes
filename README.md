@@ -22,4 +22,4 @@ i am studing java in this rebo i will add  keep track of my observations and que
 |SpringRESTfulRoutingStaticFiles|[link](SpringRESTfulRoutingStaticFiles.md)|
 |RelateResources-IntegrationTesting|[link](RelateResources-IntegrationTesting.md)|
 |SpringAuthentication|[link](SpringAuthentication.md)|
-|SpringAuthentication2|[link](SpringAuthorization.md)|
+|SpringAuthentication|[link](SpringAuthorization.md)|
